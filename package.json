@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.14"
+  },
+  "name": "validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FryDay969/Validation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FryDay969/Validation/issues"
+  },
+  "homepage": "https://github.com/FryDay969/Validation#readme",
+  "description": ""
+}
